@@ -144,6 +144,10 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+## Authors 
+
+-   [Mohammed-Amine Madah](https://github.com/amilemia) 
+-   [YoTi](https://github.com/YoTi1412)
 
 ## Bugs
 No known bugs at this time. 
